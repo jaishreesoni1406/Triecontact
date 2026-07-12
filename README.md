@@ -1,4 +1,4 @@
-# Triecontact
+# TrieContact
 **TrieContact** is a fast and efficient C++ console-based contact management system built using Trie data structures for name and number prefix-based search and autocompletion.
 <div align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" />
@@ -38,5 +38,5 @@
 ```bash
 git clone https://github.com/jaishreesoni1406/TrieContact.git
 cd TrieContact/src
-g++ triecontact.cpp -o triecontact
-./triecontact
+g++ trieContact.cpp -o trieContact
+./trieContact
